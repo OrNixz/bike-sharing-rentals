@@ -1,5 +1,4 @@
-Pandas
-Matplotlib
-Seaborn
-Streamlit
-Google Colab
+pandas
+matplotlib
+seaborn
+streamlit
